@@ -1,0 +1,11 @@
+serial_number,checked_out_psnum,checked_out_name,checked_out_gradelevel,checked_out_school,checked_out_status,checked_out_email
+-------------,-----------------,----------------,----------------------,------------------,------------------,-----------------
+GGXYZABC8J,stu12345678,Garrett,4,JEF,Lost,gmom@gmail.com:garrett@otherschool.k12.in.us
+GGXYZABC8J,stu12345679,NULL,NULL,,Lost,NULL
+GGXYZABC8J,stu12345681,Zoey Marie,2,WEB,Stolen,someparent3@yahoo.com:zmarie55@someschool.k12.in.us
+GGXYZABC8J,stu12345682,Rivera: Mariano,6,RIS,Stolen,rvieramomanadad@yahoo.com:mrivera17@someschool.k12.in.us
+GGXYZABC8J,stu12345683,NULL,NULL,,No Longer in Use,NULL
+GGXYZABC8J,stu12345689,NULL,NULL,,Available for Parts,NULL
+GGXYZABC8J,stu12345690,NULL,NULL,,,NULL
+GGXYZABC8J,stu12345691,NULL,NULL,,,NULL
+GGXYZABC8J,NULL,NULL,NULL,,,NULL
